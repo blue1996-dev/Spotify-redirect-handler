@@ -1,0 +1,15 @@
+{
+  "name": "spotify-redirect-handler",
+  "version": "1.0.0",
+  "description": "Simplified Spotify Redirect Handler",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "14.x"
+  }
+}
